@@ -21,7 +21,7 @@
 
 - 💼 I'm currently working on: **💻 Developing a new project on .Net**
 - 🌱 I'm currently learning: **📚 .Net Development**
-- 💬 Ask me about: **💡 HTML5, CSS3, Bootstrap, JavaScript, C#, MySQL, .Net Core, and .Net MVC.**
+- 💬 Ask me about: **💡 HTML5, CSS3, Bootstrap, JavaScript, C#, MySQL, Microsoft SQL Server, ASP.Net Core, and ASP.NET MVC.**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 
  **<h3 align="left">Skills</h3>**
